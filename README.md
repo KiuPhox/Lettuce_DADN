@@ -2,7 +2,7 @@
 
 ## Technology Stack
 * Front-end: ReactJS, TailwindCSS, MaterialUI, ChartJS.
-* Back-end: NodeJS
+* Back-end: NodeJS, MQTT with Yolo-bit
 * Database: MongoDB
 * Architecture Pattern: Model-View-Controller (MVC).
 
