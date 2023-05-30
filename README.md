@@ -1,4 +1,4 @@
-<h1 align="center">Thực tập đồ án đa ngành</h1>
+<h1 align="center">Multidisciplinary Project Software Engineering</h1>
 
 ## Install
 ```sh
